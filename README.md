@@ -52,11 +52,11 @@ Nesta análise, identificamos um portal que falha em aplicar as regras básicas 
 O site **Plunder & Poach** foi selecionado como um excelente caso de sucesso, demonstrando domínio prático das regras de design abordadas em sala de aula.
 
 ### 🌟 Pontos Positivos Observados:
-* **Tipografia de Alta Qualidade:** Escolha de fontes adequadas que conversam perfeitamente com a proposta do site [cite: 1].
-* **Hierarquia Visual:** Excelente estruturação de títulos, subtítulos e corpo de texto, guiando os olhos do usuário de forma intuitiva [cite: 1].
-* **Contraste e Cores:** Paleta de cores equilibrada, com ótimo contraste que garante 100% de legibilidade [cite: 1].
-* **Layout Estruturado:** Organização lógica e limpa dos elementos na tela [cite: 1].
-* **Interatividade e Engajamento:** O site reage bem à interação do usuário, prendendo sua atenção. Essa imersão não apenas melhora a experiência, mas é um fator fundamental para **ajudar a gerar mais vendas do produto** [cite: 1].
+* **Tipografia de Alta Qualidade:** Escolha de fontes adequadas que conversam perfeitamente com a proposta do site 
+* **Hierarquia Visual:** Excelente estruturação de títulos, subtítulos e corpo de texto, guiando os olhos do usuário de forma intuitiva 
+* **Contraste e Cores:** Paleta de cores equilibrada, com ótimo contraste que garante 100% de legibilidade 
+* **Layout Estruturado:** Organização lógica e limpa dos elementos na tela 
+* **Interatividade e Engajamento:** O site reage bem à interação do usuário, prendendo sua atenção. Essa imersão não apenas melhora a experiência, mas é um fator fundamental para **ajudar a gerar mais vendas do produto** 
 
 ---
 <div align="center">
